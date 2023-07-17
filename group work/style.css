@@ -1,0 +1,141 @@
+
+
+.led{position: relative; color: green; margin-left: 490px; top: -500px; font-size: 30px; }
+
+.led1{position: relative; margin-left: 35px; top: -500px;font-size: 25px; color: rgb(163, 163, 163);}
+
+.led2{position: relative; margin-left: 55px; top: -517px;font-size: 25px; color: rgb(163, 163, 163);}
+
+.led3{position: relative; margin-left: 40px; top: -530px;font-size: 25px; color: rgb(163, 163, 163);}
+
+.led4{position: relative; margin-left: 100px; top: -550px;font-size: 25px; color: rgb(163, 163, 163);}
+
+.led5{position: relative; margin-left: 100px; top: -568px;font-size: 25px; color: rgb(163, 163, 163);}
+
+.led6{position: relative; margin-left: 400px; top: -580px;font-size: 25px; color: rgb(163, 163, 163);}
+
+.read{border: 2px solid green; border-radius: 30px; position: relative; background-color: white; font-size: 16px; 
+    padding: 20px; color: green; top: -520px; margin-left: 400px; padding-left: 35px; 
+    padding-right: 35px;    text-decoration: none;}
+
+.read:hover{ background-color: green;color: white;}
+
+/* .............move the text together */
+
+.sp1{position: relative; margin-left: 140px; font-size: 43px; padding-top: 40px;}
+.sp2{position: relative; margin-left:  160px;}
+.sp3{position: relative; margin-left: 124px; margin-top: -22px ;}
+.sp4{position: relative; margin-left: 150px; margin-top: -22px ;}
+.sp5{position: relative; margin-left: 100px; margin-top: -22px ;}
+.sp6{position: relative; margin-left: 80px; margin-top: -22px ;}
+
+.box{
+    border: 4px solid rgb(93, 177, 93);
+    background-color: #61af70;
+    color: white;
+    margin-right: 600px;
+    margin-left: 1px;
+    margin-top: -350px;
+    height: 510px;
+}
+
+.read1{border: 2px solid white; border-radius: 30px; position: relative; 
+    background-color: rgb(89, 178, 89); font-size: 16px; padding: 20px; color: white; bottom: -5px; margin-left: 400px; padding-left: 35px; 
+    padding-right: 35px;    text-decoration: none;}
+
+    .read1:hover{ background-color: white;color: black;}
+
+    .dp{
+      margin-left: 670px;
+      position: relative;
+      top: -490px;
+      color: #21ac3d;
+      font-size: 15px;
+      padding: -100px;
+      
+  }
+  
+  .dp1{position: relative; font-size: 20px;}
+  .dp3{position: relative; top: -30px;}
+  .dp4{position: relative; font-size: 20px; top: -50px;}
+  .dp5{position: relative;  top: -70px;}
+  
+  .read2{border: 2px solid green; border-radius: 30px; position: relative; background-color: white; font-size: 16px; 
+      padding: 20px; color: green; top: -520px; margin-left: 665px; padding-left: 35px; 
+      padding-right: 35px;    text-decoration: none; text-align: center;}
+  
+  .read2:hover{ background-color: green;color: white;}
+  
+  
+  
+  .vc_btn3-icon1{position: relative; right: 94px;font-size: large;}
+  
+  .line {border: 1px solid green; margin-right: 690px; margin-left: 90px; margin-top: -270px;}
+  .hit{top: -30px; position: relative; margin-left: 570px;  font-size: 35px; color: green;}
+  .line1{border: 1px solid green; top: -58px; position: relative; margin-left: 690px; margin-right: 90px;}
+  
+  
+  
+  .po{
+      border: 6px solid rgb(7, 145, 7);
+      position: relative;
+      margin-top: 100px;
+  
+  }
+  
+  h4 {
+      font-family: Arial;
+      color: green;
+      font-size: 20px;
+  
+    }
+  
+  .poA1{position: relative; top: -330px; margin-left: 80px;}
+  
+  .poA2{margin-left: 390px; top: -380px; position: relative;}
+  
+  .poA3{margin-left: 670px; top: -430px; position: relative;}
+  
+  .poA4{margin-left: 1000px; top: -480px; position: relative;}
+  .SM{margin-left: 60px;}
+    
+  
+  .read-more{border: 2px solid green; position: relative; background-color: white; font-size: 16px; 
+    padding: 10px; color: green; top: -200px; padding-left: 35px; 
+    padding-right: 35px;    text-decoration: none;}
+  
+  .read-more:hover{ background-color: green;color: white;}
+  /* .................second */
+  .read-more1{border: 2px solid green; position: relative; background-color: white; font-size: 16px; 
+    padding: 10px; color: green; top: -218px; padding-left: 35px; margin-left: 340px;
+    padding-right: 35px;    text-decoration: none;}
+  
+  .read-more1:hover{ background-color: green;color: white;}
+  
+  /* ..............third */
+  .read-more2{border: 2px solid green; position: relative; background-color: white; font-size: 16px; 
+    padding: 10px; color: green; top: -237px; padding-left: 35px; margin-left: 650px;
+    padding-right: 35px;    text-decoration: none;}
+  
+  .read-more2:hover{ background-color: green;color: white;}
+  
+  /* ----------------------fouth */
+  .read-more3{border: 2px solid green; position: relative; background-color: white; font-size: 16px; 
+    padding: 10px; color: rgb(26, 110, 26); top: -230px; padding-left: 35px; margin-left: 960px;
+    padding-right: 35px;    text-decoration: none;}
+  
+  .read-more3:hover{ background-color: green;color: white;}
+  
+  
+  
+  
+  
+  
+  
+  
+   @media only screen and (max-width: 600px) {
+      body {
+        background-color: lightblue;
+      }
+    }
+    
